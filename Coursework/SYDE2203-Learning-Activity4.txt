@@ -1,0 +1,17 @@
+What does it mean to study organizational feasibility? What do we
+need to consider for each stakeholder identified?
+
+To study the organizational feasibility meant that we have to review the
+project before bringing it to the market to be sold. This is based
+on this question: If we build it, will they come? (Systems Analysis &
+Design, Dennis, Haley Wixom, Tegarden, 2021). Upon doing this, the
+revision of the project created by the stakeholder and all the workers
+who built it will need to know if the customers on the market will
+buy the product, so they can analyze if the product was a success.
+
+For each stakeholder identified, we need to consider the following:
+
+- how this person affects the project in any way
+- how they communicate with other members on developing the product
+- where the product will be shipped to and;
+- to make sure the system functions properly

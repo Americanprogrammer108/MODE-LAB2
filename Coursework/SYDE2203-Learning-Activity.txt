@@ -1,0 +1,21 @@
+The term use-case describes the process of using a system to accomplish a goal. It is done by identifying, clarifying, and organizing the requirements to develop a system properly. The use case is made up of a lot of interactions between systems and users in a particular environment where the user creates a document that describes all the steps to complete the project. A use case document helps the development team to review any errors detected so that they can resolve them. Once the requirements are met, the system is developed successfully.
+
+Use cases describe all the requirements of a system from the end user's perspective. Use case diagrams are created in a unified modeling language where all the steps are described and performed in a step-by-step sequence. The process is broken into six steps and includes the following:
+
+1. Identifying all system users and creating a profile for each one.
+
+2. Selecting one user and defining their goal.
+
+3. Describe the course taken for each use case through the system to reach that goal.
+
+4. Considering every alternate course of events and extending use cases.
+
+5. Identifying commonalities in journeys to create common course use cases and written descriptions; and
+
+6. Repeating steps two to five for all other system users.
+
+All these steps included in these diagrams are designed to allow developers to see how each part of the system interacts with others to perform a specific task.
+
+In addition to the information stated above, there are only two types of use cases: one for business use and the other for system use. A business use case focuses on businesses where there are a lot of activities involved by many actors. They are assigned to perform specific tasks to keep the business running. A system use case, on the other hand, is written with more detail that refers to specific functions in parts of the system using a use case diagram.
+
+Furthermore, use cases can be used in other areas of software development including project planning, user documentation, and test case definitions. For example, a group of people gathers data to plan out something they want to build whether it be an Adirondack chair or a program that generates random numbers. Use cases are used everywhere no matter what project you are planning to do because they act as a detailed plan to help you get the job done.
